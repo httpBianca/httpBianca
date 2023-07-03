@@ -1,4 +1,4 @@
-###💜 Olá, me chamo {Bianca Oliveira}!
+##💜 Olá, me chamo {Bianca Oliveira}!
 
 Estudando para ser uma desenvolvedora Front-end
 
