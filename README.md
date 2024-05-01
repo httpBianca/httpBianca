@@ -1,6 +1,6 @@
 ## 💜 Olá, me chamo <strong>{Bianca Oliveira}!</strong>
 
-Estudando para ser uma desenvolvedora Front-end
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=008B8B&size=25&center=true&vCenter=true&width=1000&lines=Olá,+Eu+me+chamo+Bianca;Bem-vindo!+)](https://git.io/typing-svg)
 
 <img align="right" width="300" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" />
 
